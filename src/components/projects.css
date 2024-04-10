@@ -1,0 +1,42 @@
+.project__container{
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+}
+
+.project__img-wrapper{
+    border-radius: 18px;
+    overflow: hidden;
+}
+
+.project__img{
+    height: 240px;
+    width: 100%;
+    object-fit: cover;
+    vertical-align: middle;
+    transition: all 0.6s var(--transition);
+}
+
+.project__items:hover .project__img{
+    transform: scale(1.04);
+}
+
+.project__category{
+    color: var(--primary-color);
+    font-size: var(--tiny-font-size);
+    font-weight: 700;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.project__category,
+.project__description{
+    margin-top: 30px;
+}
+
+.project__title{
+    font-size: var(--h4-font-size);
+}
+
+.project__description{
+    min-height: 125px;
+}
