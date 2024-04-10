@@ -1,3 +1,7 @@
+The Postfolio has been deployed on Firebse
+Link - https://harshal-rajput-1000.web.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
