@@ -1,4 +1,4 @@
-The Postfolio has been deployed on Firebse
+The Portfolio has been deployed on Firebse
 Link - https://harshal-rajput-1000.web.app
 
 
